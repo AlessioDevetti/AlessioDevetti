@@ -33,7 +33,7 @@ Studente ITS in Reti e Cybersecurity con esperienza pratica su ambienti Linux/Pr
 | Progetto | Ambito | Descrizione Tecnica |
 | :--- | :--- | :--- |
 | **Architettura Dual-Stack & Multi-Site VPN** | Networking / Security | Progettazione rete domestica con OPNsense, distribuzione prefissi IPv6 (SLAAC/DHCPv6-PD), regole firewall granulari e interconnessione remota via WireGuard. |
-| **Nodo Floodfill I2P (IPv6-Only)** | Overlay Networks | Deployment e tuning di un router `i2pd` ad alta banda isolato su VM dedicata, ottimizzato per il routing cifrato sulla rete I2P. |
+| **Nodo Floodfill I2P** | Overlay Networks | Deployment e tuning di un router `i2pd` ad alta banda isolato su Pi5 dedicato, ottimizzato per il routing cifrato sulla rete I2P. |
 | **Mappatura & Diagnostica Topologia di Rete** | Network Analysis | Analisi passiva/attiva di sottoreti, tracciamento percorsi Dual-Stack e audit delle porte esposte in ambienti LAN/WAN. |
 
 ---
