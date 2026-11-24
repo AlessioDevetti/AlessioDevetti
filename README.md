@@ -66,14 +66,3 @@ lorem ipsum
 </p>
 
 ---
-
-### Metriche GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=UgoUghetto&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&locale=it" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UgoUghetto&layout=compact&theme=github_dark&hide_border=true&langs_count=6&locale=it" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=UgoUghetto&theme=github_dark&hide_border=true&locale=it" />
-</div>
