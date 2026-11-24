@@ -1,0 +1,1 @@
+Follow all instructions and constraints defined in `AGENTS.md`.
