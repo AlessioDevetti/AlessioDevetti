@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Alessio Devetti</h1>
   <p><strong>Systems & Network Administration • Smart Automation • Self-Hosted Infrastructure</strong></p>
-  <p>Trieste, Italia • <a href="mailto:mail@joshuameta.it">mail@joshuameta.it</a> (PGP Signed)</p>
+  <p>Trieste, Italia</p>
 </div>
 
 ---
@@ -51,6 +51,13 @@ Studente ITS in Reti e Cybersecurity con esperienza pratica su ambienti Linux/Pr
 | :--- | :--- | :--- | :--- |
 | **IPv6 Certification** | Hurricane Electric (HE) | 🟡 In corso (livello Enthusiast)| Connettività IPv6 nativa, DNS AAAA/PTR, routing e server SMTP/web su IPv6 |
 | **IPv6 Fundamentals / Advanced** | RIPE NCC Academy | 🔵 In programma | Piano di indirizzamento RIR, BGP su IPv6, policy di assegnazione e transizione |
+
+---
+  ## Server posta
+
+Mail server di posta <a href="mailto:mail@joshuameta.it">mail@joshuameta.it</a>, per ora solo in Ipv4 in un'altra rete rispetto al resto dei servizi, Ipv6 in lavorazione.
+
+([Chiave pubblica OpenPGP](https://keys.openpgp.org/search?q=mail%40joshuameta.it))  
 
 ---
 
