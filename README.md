@@ -49,7 +49,7 @@ Studente ITS in Reti e Cybersecurity con esperienza pratica su ambienti Linux/Pr
 
 | Certificazione / Corso | Ente | Stato | Focus Tecnico |
 | :--- | :--- | :--- | :--- |
-| **IPv6 Certification** | Hurricane Electric (HE) | 🟡 In corso | Connettività IPv6 nativa, DNS AAAA/PTR, routing e server SMTP/web su IPv6 |
+| **IPv6 Certification** | Hurricane Electric (HE) | 🟡 In corso (livello Enthusiast)| Connettività IPv6 nativa, DNS AAAA/PTR, routing e server SMTP/web su IPv6 |
 | **IPv6 Fundamentals / Advanced** | RIPE NCC Academy | 🔵 In programma | Piano di indirizzamento RIR, BGP su IPv6, policy di assegnazione e transizione |
 
 ---
