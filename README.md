@@ -55,9 +55,9 @@ Studente ITS in Reti e Cybersecurity con esperienza pratica su ambienti Linux/Pr
 ---
   ## Server posta
 
-Mail server di posta <a href="mailto:mail@joshuameta.it">mail@joshuameta.it</a>, per ora solo in Ipv4 in un'altra rete rispetto al resto dei servizi, Ipv6 in lavorazione.
+Se state leggendo fino a qui ho colto in qualche modo il vostro interesse e mi fa piacere, per scoprire tutta la documentazione del mio Homelab e l'infrastruttura di rete con tutti i commit e le decisioni prese scrivetemi pure una mail alla casella <a href="mailto:alessio.devetti.allievi@accademianautica.com">alessio.devetti.allievi@accademianautica.com</a> così da potervi aggiungere alla repo privata.
 
-([Chiave pubblica OpenPGP](https://keys.openpgp.org/search?q=mail%40joshuameta.it))  
+Server di posta in lavorazione, l'obiettivo sarebbe di avere un server di posta raggiungibile sia da ipv4 che da ipv6.
 
 ---
 
